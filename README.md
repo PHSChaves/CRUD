@@ -10,7 +10,7 @@ CRUD (Create, Read, Update, Delete)
 
 ## Visualização do projeto
 
-Foi feito um Deploy na Vercel para testar a aplicação. Para visualizar o projeto em "produção" [clique aqui](https://teste-uol.vercel.app/)
+Foi feito um Deploy na Vercel para testar a aplicação. Para visualizar o projeto em "produção" [clique aqui](https://crud-studies.vercel.app/)
 
 ## Tecnologias Utilizadas
 
